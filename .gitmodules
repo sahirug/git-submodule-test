@@ -1,0 +1,6 @@
+[submodule "lms"]
+	path = lms
+	url = https://github.com/sahirug/lms.git
+[submodule "dms"]
+	path = dms
+	url = https://github.com/sahirug/dms.git
