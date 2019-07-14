@@ -1,2 +1,4 @@
 git submodule add https://github.com/sahirug/lms.git
 git submodule add https://github.com/sahirug/dms.git
+git submodule init
+git submodule update
